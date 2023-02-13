@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**OscarMancilla/oscarmancilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Project Title
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A brief description of what this project does and who it's for
+
+¡Hola! 😃 Soy Oscar Mancilla Canaviri.
+
+  •Estudie En Colegio Jesús de Nazareth. 🧑‍🎓
+
+  •Me gusta el ajedrez, la matemática y la Física 📝📚
+
+  •Tengo dos Titulos técnicos, uno en Electricidad como 
+    técnico medio y otro en Mecánica Automotriz.⚡🔧
+
+  •Actualmente soy estudiante de ingeniería Mecátronica 
+   porque me gusta la automatización, la tecnología, la 
+   evolución e innovación y tengo muchas expectativas 
+    respecto ala carrera. 💻📚🧑‍💻
+
+  •Al salir de la Universidad tengo pensado crear un proyecto 
+   de innovación, que ayude ami pais en producción y avance 
+   Tecnológico. 🇧🇴🦾
+
+![Logo](https://images.app.goo.gl/sU15rAQsHt5HTSmq9)
