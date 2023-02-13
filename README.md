@@ -1,6 +1,6 @@
 
-![Descripción de la imagen](https://pin.it/1Pvjcxf)
-# Project Title
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
 
 A brief description
 
