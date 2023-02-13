@@ -2,7 +2,9 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+A brief description
+
+  •¡Hola! 👋 soy Oscar Mancilla Canaviri.😃. 
 
   •Estudie En Colegio Jesús de Nazareth. 🧑‍🎓
 
