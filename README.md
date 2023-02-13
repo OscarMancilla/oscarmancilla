@@ -4,8 +4,6 @@
 
 A brief description of what this project does and who it's for
 
-¡Hola! 😃 Soy Oscar Mancilla Canaviri.
-
   •Estudie En Colegio Jesús de Nazareth. 🧑‍🎓
 
   •Me gusta el ajedrez, la matemática y la Física 📝📚
@@ -21,5 +19,3 @@ A brief description of what this project does and who it's for
   •Al salir de la Universidad tengo pensado crear un proyecto 
    de innovación, que ayude ami pais en producción y avance 
    Tecnológico. 🇧🇴🦾
-
-![Logo](https://images.app.goo.gl/sU15rAQsHt5HTSmq9)
