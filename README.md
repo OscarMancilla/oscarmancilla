@@ -1,7 +1,5 @@
-<div id="header" align="center">
-<img src="https://giphy.com/gifs/iron-man-tony-stark-maestro-hHxTQkcjmHUTC" width="200" />
 
-![Descripción de la imagen](https://picsum.photos/800/600)
+![Descripción de la imagen](https://images.app.goo.gl/TDa2Tgw3ydpDCTtQ6)
 # Project Title
 
 A brief description
