@@ -34,3 +34,6 @@ Redes sociales:
 <a href="https://wa.me/59168701657?text=%C2%A1Hola!,%20Soy%20Oscar.%20%F0%9F%98%83%0A%C2%BFEn%20que%20puedo%20ayudarte?">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Whatsapp_logo_svg.png" width="50"
 </a>
+<a href="https://instagram.com/oscar_mancilla0?igshid=ZDdkNTZiNTM=">
+<img src="https://commons.wikimedia.org/wiki/File:Instagram_logo.svg#/media/File%3AInstagram_logo_2016.svg" width="50"
+</a>
