@@ -29,5 +29,5 @@ Redes sociales:
 
 <a href="https://www.facebook.com/oscararmando.mancilla?mibextid=ZbWKwL">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="50"
-            alt="Twitter Badge" />
+            alt="Facebook Badge" />
 </a>
