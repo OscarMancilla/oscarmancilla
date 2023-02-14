@@ -22,6 +22,6 @@
 
   •_Mis propósitos al salir de la Universidad es ser un buen profesional🧑‍🎓, ser un orgullo para mi familia pero lo mas **¡importante! es comprarle una casa a mi madre❤️ y sacarla adelante**_.
 <a href="https://www.facebook.com/oscararmando.mancilla?mibextid=ZbWKwL">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="50"
             alt="Twitter Badge" />
 </a>
