@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <img src="https://media3.giphy.com/media/g4sCZhKykg1z2/giphy.gif?cid=6c09b95202514a59ae3705b8b9023f52dc8a5d13f753f08e&rid=giphy.gif&ct=g" width="200" />
 
-  # _¡Hola! 👋 Soy Oscar Mancilla Canaviri😃.
+  # _¡Hola! 👋 Soy Oscar Mancilla Canaviri😃_.
 
   •Estudié En Colegio Jesús de Nazareth. 🧑‍🎓
 
@@ -16,7 +16,7 @@
    evolución e innovación y tengo muchas expectativas 
     respecto ala carrera. 💻📚🧑‍💻
 
-  •Al salir de la Universidad tengo pensado crear un proyecto 
+  •_Al salir de la Universidad tengo pensado crear un proyecto 
    de innovación, que ayude ami pais en producción y avance 
    Tecnológico_. 🇧🇴🦾
 
