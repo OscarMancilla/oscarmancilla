@@ -20,4 +20,4 @@
    de innovación, que ayude ami pais en producción y avance 
    Tecnológico_. 🇧🇴🦾
 
-  •*Mis propósitos al salir de la Universidad es ser un buen profesional🧑‍🎓, ser un orgullo para mi familia pero lo mas ¡importante! es comprarle una casa a mi madre❤️ y sacarla adelante*.
+  •_Mis propósitos al salir de la Universidad es ser un buen profesional🧑‍🎓, ser un orgullo para mi familia pero lo mas **¡importante! es comprarle una casa a mi madre❤️ y sacarla adelante**_.
