@@ -32,6 +32,5 @@ Redes sociales:
             alt="Facebook Badge" />
 </a>
 <a href="https://wa.me/59168701657?text=%C2%A1Hola!,%20Soy%20Oscar.%20%F0%9F%98%83%0A%C2%BFEn%20que%20puedo%20ayudarte?">
-<img src="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg#/media/File%3AWhatsApp.svg" width="50"
-            alt="WhatsApp Badge" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Whatsapp_logo_svg.png" width="50"
 </a>
