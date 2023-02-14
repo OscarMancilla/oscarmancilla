@@ -19,3 +19,5 @@
   •Al salir de la Universidad tengo pensado crear un proyecto 
    de innovación, que ayude ami pais en producción y avance 
    Tecnológico. 🇧🇴🦾
+
+  •Mis propósitos al salir de la Universidad es ser un buen profesional,ser un orgullo para mi familia y comprarle una casa ami madre.
