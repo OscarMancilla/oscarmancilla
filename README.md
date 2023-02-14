@@ -4,7 +4,7 @@
 
 A brief description
 
-  •¡Hola! 👋 soy Oscar Mancilla Canaviri.😃. 
+  •¡Hola! 👋 _soy Oscar Mancilla Canaviri_.😃.
 
   •Estudie En Colegio Jesús de Nazareth. 🧑‍🎓
 
