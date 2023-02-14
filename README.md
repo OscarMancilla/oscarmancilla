@@ -9,9 +9,9 @@
   •_Me gusta el ajedrez, la matemática y la Física_ 📝📚
 
   •_Tengo dos Titulos técnicos, uno en Electricidad como 
-    técnico medio y otro en Mecánica Automotriz.⚡🔧
+    técnico medio y otro en Mecánica Automotriz_.⚡🔧
 
-  •Actualmente soy estudiante de ingeniería Mecátronica 
+  •_Actualmente soy estudiante de ingeniería Mecátronica 
    porque me gusta la automatización, la tecnología, la 
    evolución e innovación y tengo muchas expectativas 
     respecto ala carrera_. 💻📚🧑‍💻
