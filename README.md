@@ -35,5 +35,5 @@ Redes sociales:
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Whatsapp_logo_svg.png" width="50"
 </a>
 <a href="https://instagram.com/oscar_mancilla0?igshid=ZDdkNTZiNTM=">
-<img src="https://commons.wikimedia.org/wiki/File:Instagram_logo.svg#/media/File%3AInstagram_logo_2016.svg" width="50"
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" width="50"
 </a>
