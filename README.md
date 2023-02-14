@@ -4,17 +4,17 @@
 
   # _¡Hola! 👋 Soy Oscar Mancilla Canaviri😃_.
 
-  •Estudié En Colegio Jesús de Nazareth. 🧑‍🎓
+  •_Estudié En Colegio Jesús de Nazareth_. 🧑‍🎓
 
-  •Me gusta el ajedrez, la matemática y la Física 📝📚
+  •_Me gusta el ajedrez, la matemática y la Física_ 📝📚
 
-  •Tengo dos Titulos técnicos, uno en Electricidad como 
+  •_Tengo dos Titulos técnicos, uno en Electricidad como 
     técnico medio y otro en Mecánica Automotriz.⚡🔧
 
   •Actualmente soy estudiante de ingeniería Mecátronica 
    porque me gusta la automatización, la tecnología, la 
    evolución e innovación y tengo muchas expectativas 
-    respecto ala carrera. 💻📚🧑‍💻
+    respecto ala carrera_. 💻📚🧑‍💻
 
   •_Al salir de la Universidad tengo pensado crear un proyecto 
    de innovación, que ayude ami pais en producción y avance 
