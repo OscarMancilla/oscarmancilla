@@ -4,7 +4,7 @@
 
   # ¡Hola! 👋 Soy Oscar Mancilla Canaviri😃.
 
-  •Estudie En Colegio Jesús de Nazareth. 🧑‍🎓
+  •Estudié En Colegio Jesús de Nazareth. 🧑‍🎓
 
   •Me gusta el ajedrez, la matemática y la Física 📝📚
 
