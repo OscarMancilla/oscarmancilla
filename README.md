@@ -31,7 +31,7 @@ Redes sociales:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="50"
             alt="Facebook Badge" />
 </a>
-<a href="https://wa.me/59168701657?text=%C2%A1Hola!,%20Soy%20Oscar.%20%F0%9F%98%83%0A%C2%BFEn%20que%20puedo%20ayudarte?">
+<a href="https://wa.me/59168701657?text=%C2%A1Hola,%20Oscar!%20%F0%9F%98%83">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Whatsapp_logo_svg.png" width="50"
 </a>
 <a href="https://instagram.com/oscar_mancilla0?igshid=ZDdkNTZiNTM=">
